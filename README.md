@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🌱 *I’m currently learning JavaScript, TypeScript, Angular, NestJS, PostgreSQL*
+🌱 *I’m currently learning JavaScript, TypeScript, Angular, NestJS, PostgreSQL, Node.js, React Native*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
