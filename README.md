@@ -14,12 +14,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🌱 *I’m currently learning Angular 20, TypeScript, .NET 9, NestJS, and SQL.*
+🌱 *I’m currently learning Angular, TypeScript, .NET, NestJS, and SQL.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-	<a href="mailto:ja.rodriguezc@duocuc.cl"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:javier.dev2003@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/javier-rodriguezcortes/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/jaavispeed"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://javierrodriguez.netlify.app"><img src="https://img.shields.io/badge/portfolio-%230A66C2.svg?style=plastic&logo=mouse&logoColor=white" alt="Portfolio"/></a>
