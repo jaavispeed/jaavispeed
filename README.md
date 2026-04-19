@@ -1,50 +1,56 @@
-<div>
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFF00&size=30&lines=Hey!+It's+Javier!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFF00&size=35&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Javier+Rodríguez" alt="Typing SVG" />
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h3>About Me</h3>
+### 👤 Sobre mí
 
-- **I’m 22 years old.**  
-- **I’m a Computer Engineer.**  
-- **I’m from Chile.**
+¡Hola! 👋 Soy Javier Rodríguez, **Ingeniero en Informática** de Chile 🇨🇱.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 💼 Actualmente trabajando como **Desarrollador Full Stack**.
+- 🌱 Especializándome en **Angular, .NET y SQL**.
+- 🚀 Apasionado por el aprendizaje continuo.
+---
 
-🌱 *I’m currently learning Angular, TypeScript, .NET, NestJS, and SQL.*
+### 💻 Tecnologías
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Frontend**
+<br />
+![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss)
 
-<p align="center">
-	<a href="mailto:javier.dev2003@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/javier-rodriguezcortes/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/jaavispeed"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://javierrodriguez.netlify.app"><img src="https://img.shields.io/badge/portfolio-%230A66C2.svg?style=plastic&logo=mouse&logoColor=white" alt="Portfolio"/></a>
+<br />
+
+**Backend**
+<br />
+![.NET](https://img.shields.io/badge/.NET-000?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=csharp)
+![SQL_Server](https://img.shields.io/badge/SQL_Server-000?style=flat&logo=microsoftsqlserver)
+
+<br />
+
+**Herramientas**
+<br />
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![VS_Code](https://img.shields.io/badge/VS_Code-000?style=flat&logo=visualstudiocode)
+
+---
+
+### 🤝 Contacto
+
+<p>
+  <a href="mailto:javier.dev2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/javier-rodriguezcortes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://javier-rodriguez.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=flat-square&logo=mouse&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="center">💻 Tech Stack</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <h4>🧠 Frontend</h4>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular%20Material-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-
-  <h4>⚙️ Backend</h4>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-
-  <h4>🗄️ Database</h4>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-  <h4>🧩 Tools</h4>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
